@@ -54,11 +54,7 @@ L’application doit alors se lancer.
 |7	|Regarder vers l’avant gauche|
 |Echap	|Quitter l’application|
 
-## Points d'améliorations:
-Il y aurait beaucoup de choses à améliorer dans cette ancienne application, mais mon but n’était pas de créer un véritable moteur « 3D » exploitable dans un jeu. Je préfère laisser ça aux mathématiciens, infiniment meilleurs que moi dans ce domaine!
+## Objectifs:
+Mon objectif ici n’était pas de créer un véritable moteur « 3D » exploitable dans un jeu. Je préfère laisser ça aux mathématiciens, infiniment meilleurs que moi dans ce domaine!
 
-Non, mon but était simplement de me lancer un défi, à une époque où les IA comme ChatGPT n’existait pas encore, et où on ne trouvait pas tant de documentation que ça sur cette technologie. Je voulais comprendre les mécanismes par moi-même et voir si j’étais capable de les mettre en œuvre, sans regarder d’autres codes source, exemples, ou même algorithmes, le tout en un temps raisonnable (environ 2 semaines à raison de deux/trois heures par jour en moyenne).
-
-Concrètement mon algorithme est très largement améliorable. De même que la correction de l’effet fisheye, quand la caméra s’approche trop près d’un mur, n’est pas opérationnelle.
-
-Pourquoi pas pour des mises à jour futures ! 
+Non, mon but était simplement de me lancer un défi, à une époque où les IA comme ChatGPT n’existait pas encore, et où on ne trouvait pas tant de documentation que ça sur cette technologie. Je voulais comprendre les mécanismes par moi-même et voir si j’étais capable de les mettre en œuvre, sans regarder d’autres codes source, exemples, ou même algorithmes, le tout en un temps raisonnable.
