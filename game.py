@@ -1,6 +1,6 @@
 
 import pygame as pg
-import Constantes as const
+import constantes as const
 import map as map
 import player as player
 

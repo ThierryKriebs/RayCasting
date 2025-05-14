@@ -30,6 +30,7 @@ Plus un rayon est grand est donc un mur est loin, plus celui-ci apparaîtra peti
 - Importer le projet soit avec les commandes git, soit en téléchargeant les fichiers avec l’interface de github.
 - Ouvrir le répertoire téléchargé et tester votre installation de python en ouvrant une fenêtre de commande, puis en entrant la commande suivante : (py --version) 
 Normalement votre version de python doit apparaître
+- Installer la librairie **pygame**: `pip install pygame`
 - Exécuter simplement le fichier main.bat
 
 L’application doit alors se lancer.

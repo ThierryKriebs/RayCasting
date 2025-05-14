@@ -3,7 +3,7 @@
 import pygame as pg
 import math
 import levels as lev
-import Constantes as const
+import constantes as const
 import game as game
 
 
